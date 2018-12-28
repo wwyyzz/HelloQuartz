@@ -37,7 +37,6 @@ public class HelloScheduler {
                 .build();
 
 
-
 //        SimpleTrigger
         Trigger trigger = TriggerBuilder
                 .newTrigger()
